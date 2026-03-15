@@ -38,7 +38,7 @@ Bu repo, **Mühendisler için İstatistik** dersinin uygulamalı Jupyter Noteboo
 1. **Repoyu klonlayın:**
    ```bash
    git clone https://github.com/HAYDARKILIC/istatistik.git
-   cd muhendisler-icin-istatistik
+   cd istatistik
    ```
 
 2. **Gerekli paketleri yükleyin:**
