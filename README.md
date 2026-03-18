@@ -65,4 +65,8 @@ Bu repo, **Mühendisler için İstatistik** dersinin uygulamalı Jupyter Noteboo
 | `statsmodels` | Regresyon modelleri ve istatistiksel çıkarım |
 | `scikit-learn` | Makine öğrenmesi modelleri (regresyon, ROC) |
 
+## 📖 Kaynak Kitap
+
+Diez, D. M., Barr, C. D., & Cetinkaya-Rundel, M. (2012). OpenIntro statistics (Vol. 4). Boston, MA, USA:: OpenIntro.
+
 ---
